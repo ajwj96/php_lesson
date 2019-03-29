@@ -6,6 +6,7 @@ for ($i =0; $i<100; $i++){
         echo "fizz";
     }
 }
+echo "welcome";
 ?>
 
 <h1></h1>
